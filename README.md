@@ -1,1 +1,1 @@
-# Imgae-search   Unsplash API
+# Image-search   Unsplash API
